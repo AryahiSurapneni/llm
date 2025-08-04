@@ -1,0 +1,16 @@
+[
+  {
+    "input": "Translate 'Good Morning' into German and then multiply 5 and 6.",
+    "output": [
+      "Translation to German: 'Good Morning' → 'Guten Morgen'",
+      "Multiplication Result: 5 * 6 = 30"
+    ]
+  },
+  {
+    "input": "Add 10 and 20, then translate 'Have a nice day' into German.",
+    "output": [
+      "Addition Result: 10 + 20 = 30",
+      "Translation to German: 'Have a nice day' → 'Einen schönen Tag noch'"
+    ]
+  }
+]
