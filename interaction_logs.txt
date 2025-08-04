@@ -1,0 +1,11 @@
+You: What are the colors in a rainbow?
+Assistant:
+Let's think step-by-step:
+1. Sunlight is made up of different colors.
+2. Water droplets act like tiny prisms.
+3. These droplets break sunlight into its component colors.
+4. The main colors are: Red, Orange, Yellow, Green, Blue, Indigo, Violet.
+
+You: What is 15 + 23?
+Assistant:
+I can't solve math problems directly. Please use a calculator tool.
