@@ -27,9 +27,6 @@ A multi-level command-line assistant powered by the Groq API, utilizing the Llam
    python -m venv .venv
    .venv\Scripts\activate         # For Windows
    source .venv/bin/activate      # For macOS/Linux
-3. Install dependencies:
-   ```bash
-   pip install requests
-   pip install googletrans==4.0.0-rc1
+
 
    
