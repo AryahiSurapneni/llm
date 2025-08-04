@@ -22,3 +22,12 @@ A multi-level command-line assistant powered by the Groq API, utilizing the Llam
    ```bash
    git clone https://github.com/AryahiSurapneni/llm.git
    cd llm
+   
+2.  Create and activate a virtual environment:
+   ```bash
+   python -m venv .venv
+   .venv\Scripts\activate         # For Windows
+   source .venv/bin/activate      # For macOS/Linux
+
+
+   
