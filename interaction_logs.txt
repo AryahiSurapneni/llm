@@ -1,0 +1,17 @@
+You: What is the capital of France?
+Assistant:
+Let's think step-by-step:
+1. France is a country in Europe.
+2. Its capital is Paris.
+
+You: Add 45 and 30
+Assistant: Let me use the calculator tool.
+Calculator Tool: 45 + 30 = 75
+
+You: Multiply 12 and 7
+Assistant: Let me use the calculator tool.
+Calculator Tool: 12 * 7 = 84
+
+You: Multiply 9 and 8, and also tell me the capital of Japan.
+Assistant:
+I'm currently unable to handle multi-step questions.
