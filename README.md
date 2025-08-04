@@ -21,13 +21,15 @@ A multi-level command-line assistant powered by the Groq API, utilizing the Llam
 1. Clone the repository:
    ```bash
    git clone https://github.com/AryahiSurapneni/llm.git
-   cd llm
-   
+   cd llm  
 2.  Create and activate a virtual environment:
    ```bash
    python -m venv .venv
    .venv\Scripts\activate         # For Windows
    source .venv/bin/activate      # For macOS/Linux
-
+3. Install dependencies:
+   ```bash
+   pip install requests
+   pip install googletrans==4.0.0-rc1
 
    
