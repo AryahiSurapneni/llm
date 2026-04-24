@@ -1,6 +1,7 @@
 import requests
+import os
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 HEADERS = {
@@ -8,7 +9,7 @@ HEADERS = {
     "Content-Type": "application/json"
 }
 
-MODEL = "llama3-70b-8192"  # You can also try mixtral-8x7b-32768 or gemma-7b-it
+MODEL = "llama3-70b-8192"
 
 def ask_llm(user_prompt):
     system_prompt = (
