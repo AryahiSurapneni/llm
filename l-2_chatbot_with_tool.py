@@ -1,7 +1,8 @@
 import requests
+import os
 from calculator_tool import calculate
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 HEADERS = {
